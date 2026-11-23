@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1650" width="1100" height="1650">
+<rect width="1100" height="1650" fill="#fff"/><text x="54" y="66" font-family="Arial" font-size="29" font-weight="bold" fill="#222">SCIENCE STRENGTH — HOMEPAGE WIREFRAME</text><text x="54" y="99" font-family="Arial" font-size="18" fill="#777">ICT2215 · Layout plan · not the final rendered page</text>
+<g fill="#fbfaf7" stroke="#9b9b9b" stroke-width="2">
+ <rect x="53" y="133" width="994" height="105" rx="8"/>
+ <rect x="53" y="268" width="994" height="220" rx="8"/>
+ <rect x="53" y="516" width="994" height="230" rx="8"/>
+ <rect x="53" y="771" width="994" height="230" rx="8"/>
+ <rect x="53" y="1026" width="994" height="230" rx="8"/>
+ <rect x="53" y="1293" width="481" height="267" rx="8"/>
+ <rect x="562" y="1293" width="485" height="267" rx="8"/>
+</g>
+<g font-family="Arial" fill="#3e3e3e">
+ <text x="80" y="178" font-size="20" font-weight="bold">Science Strength</text><text x="768" y="178" font-size="18">Home  About  Contact</text><text x="83" y="205" fill="#999" font-size="16">LOGO</text>
+ <text x="84" y="324" font-size="19" font-weight="bold">HERO / INTRO</text><text x="84" y="387" font-size="39" font-weight="bold">Stronger starts here.</text><text x="84" y="429" font-size="19" fill="#888">Brief purpose and welcoming message</text>
+ <text x="200" y="589" font-size="29" font-weight="bold">CALORIE CALCULATOR</text><text x="204" y="630" font-size="17">BMR / TDEE introduction</text><text x="204" y="668" font-size="17">[ Calculate button → calorie.html ]</text>
+ <text x="200" y="842" font-size="29" font-weight="bold">TRAINING INTENSITY</text><text x="204" y="883" font-size="17">RPE / RIR introduction</text><text x="204" y="921" font-size="17">[ View guide button → intensity.html ]</text>
+ <text x="200" y="1099" font-size="29" font-weight="bold">VIDEO TUTORIALS</text><text x="204" y="1140" font-size="17">Three basic exercise guides</text><text x="204" y="1178" font-size="17">[ Watch videos button → videos.html ]</text>
+ <text x="80" y="1342" font-size="23" font-weight="bold">ABOUT</text><text x="80" y="1395" font-size="17">Simple website purpose</text><text x="80" y="1430" font-size="17">Beginner audience and goals</text>
+ <text x="588" y="1342" font-size="23" font-weight="bold">CONTACT</text><text x="588" y="1390" font-size="17">Name input</text><text x="588" y="1428" font-size="17">Email input</text><text x="588" y="1466" font-size="17">Message box</text><text x="588" y="1512" font-size="17">[ Demo button ]</text>
+</g>
+<g stroke-width="3" fill="none"><circle cx="129" cy="632" r="49" stroke="#2877c8"/><circle cx="129" cy="887" r="49" stroke="#e2564d"/><circle cx="129" cy="1143" r="49" stroke="#d4a52a"/></g>
+<text x="54" y="1605" font-size="15" fill="#777" font-family="Arial">Mobile version: cards stack vertically and About/Contact become one-column sections.</text>
+</svg>

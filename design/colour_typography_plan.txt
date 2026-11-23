@@ -1,0 +1,31 @@
+SCIENCE STRENGTH — DESIGN PLAN
+
+Purpose: A simple website introducing basic strength training to beginners.
+Audience: Adults who are new to strength training.
+
+COLOUR PALETTE
+Background       #FFFFFF    clean white, easy to read
+Card background  #FCFAF6    soft warm white, separates content
+Main text        #22252A    strong contrast
+Secondary text   #73757A    brief supporting information
+Blue            #2877C8    calorie calculator
+Red             #E2564D    training intensity
+Amber           #D4A52A    video tutorials
+
+TYPOGRAPHY
+Headings: Arial Bold
+Body: Arial Regular
+Brand label: Arial Bold, all English
+
+DESIGN CHOICES
+Contrast: dark text and bright labels/buttons against a white background.
+Repetition: every main function uses a matching card, round icon, and CTA button.
+Alignment: titles and body text align consistently across cards.
+Proximity: each description and button stays close to its function title.
+Responsive: wide cards on desktop and vertically stacked cards on mobile.
+
+INFORMATION ARCHITECTURE
+index.html: Home / About / Contact
+calorie.html: Calorie calculator and three goals
+intensity.html: RPE and RIR guide
+videos.html: Three original exercise illustrations and official JTS YouTube embeds

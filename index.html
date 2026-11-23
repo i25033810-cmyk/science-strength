@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Science Strength: simple strength training tools for beginners.">
+  <title>Science Strength | Home</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+<header class="site-header" id="top">
+  <div class="site-wrap header-inner">
+    <a class="brand" href="index.html" aria-label="Science Strength homepage">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span><span class="brand-title">SCIENCE STRENGTH</span></span>
+    </a>
+    <nav class="top-nav" aria-label="Main navigation">
+      <a href="index.html" aria-current="page">Home</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </div>
+</header>
+<main>
+  <div class="site-wrap">
+    <section class="hero" aria-labelledby="home-heading">
+      <span class="eyebrow">Your beginner training toolkit</span>
+      <h1 id="home-heading">Stronger starts here.</h1>
+      <p>Understand your calorie needs, learn to manage training effort, and build better technique — one simple step at a time.</p>
+    </section>
+    <section aria-labelledby="explore-heading">
+      <div class="section-head"><h2 id="explore-heading">Choose your starting point</h2><p class="section-note">Three tools. No distractions.</p></div>
+      <div class="features">
+        <article class="feature-card" style="--accent:var(--blue);--faint:rgba(40,119,200,.10)">
+          <div class="ring" aria-hidden="true"><svg viewBox="0 0 32 32"><rect x="7" y="4" width="18" height="24" rx="3"/><path d="M11 10h10M11 16h2M19 16h2M11 22h2M19 22h2"/></svg></div>
+          <div class="feature-copy"><div class="feature-top"><h3>Calorie Calculator</h3><span class="feature-kicker">BMR / TDEE</span></div>
+            <p class="feature-desc">Estimate your daily calorie needs and explore three basic nutrition goals: gain, maintain or lose weight.</p>
+            <a class="action" href="calorie.html">Calculate <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 10h14M11 4l6 6-6 6"/></svg></a>
+          </div>
+        </article>
+        <article class="feature-card intensity">
+          <div class="ring" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M5 21a12 12 0 1 1 22 0"/><path d="M16 21l7-9"/><circle cx="16" cy="21" r="2"/></svg></div>
+          <div class="feature-copy"><div class="feature-top"><h3>Training Intensity</h3><span class="feature-kicker">RPE / RIR</span></div>
+            <p class="feature-desc">Use a simple effort scale to understand how difficult a set feels and how many repetitions you have left.</p>
+            <a class="action" href="intensity.html">View guide <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 10h14M11 4l6 6-6 6"/></svg></a>
+          </div>
+        </article>
+        <article class="feature-card videos">
+          <div class="ring" aria-hidden="true"><svg viewBox="0 0 32 32"><rect x="4" y="7" width="24" height="18" rx="4"/><path d="m14 12 8 4-8 4z"/></svg></div>
+          <div class="feature-copy"><div class="feature-top"><h3>Video Tutorials</h3><span class="feature-kicker">SQUAT / BENCH / DEADLIFT</span></div>
+            <p class="feature-desc">Watch three technique lessons from Juggernaut Training Systems and learn the basics of the main lifts.</p>
+            <a class="action" href="videos.html">Watch videos <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 10h14M11 4l6 6-6 6"/></svg></a>
+          </div>
+        </article>
+      </div>
+    </section>
+  </div>
+  <div class="site-wrap"><div class="lower">
+    <section id="about" aria-labelledby="about-title"><span class="eyebrow">Our idea</span><h2 id="about-title">About Science Strength</h2>
+      <p>Science Strength is a beginner-friendly website built around one idea: strength training should be easier to understand. Instead of complex features, it focuses on practical calorie estimates, a simple RPE guide, and basic exercise tutorials.</p>
+      <p>This is an educational student website, not a personal training or medical service.</p>
+      <div class="mini-list"><span class="mini-chip">Simple</span><span class="mini-chip">Beginner friendly</span><span class="mini-chip">Evidence informed</span></div>
+    </section>
+    <section id="contact" aria-labelledby="contact-title"><span class="eyebrow">Say hello</span><h2 id="contact-title">Contact</h2>
+      <p>Have an idea for this website? You can leave a sample question or suggestion using this demonstration form.</p>
+      <form class="contact-form" id="contact-form">
+        <div class="field"><label for="name">Name</label><input id="name" name="name" placeholder="Your name" autocomplete="name" required></div>
+        <div class="field"><label for="email">Email</label><input id="email" type="email" name="email" placeholder="you@example.com" autocomplete="email" required></div>
+        <div class="field"><label for="message">Message</label><textarea id="message" name="message" placeholder="Your message" required></textarea></div>
+        <button class="btn" type="submit">Submit (demo only)</button>
+        <div class="feedback" id="contact-feedback" role="status" aria-live="polite"></div>
+        <p class="notice">Demo only — this form does not send or store any information.</p>
+      </form>
+    </section>
+  </div></div>
+</main>
+<footer class="footer"><div class="site-wrap footer-inner"><span>© 2026 Science Strength · ICT2215 website project</span><span><a href="#top">Back to top ↑</a></span></div></footer>
+</body>
+</html>
